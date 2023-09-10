@@ -1,0 +1,256 @@
+.main{
+    margin-left: 340px;
+    margin-right: 270px;
+    margin-top: 15px;
+    margin-bottom: 80px;
+    padding-block: 100px;
+    padding-top: 100px;
+    background-color: white;
+    text-align-last: center;
+    height: 1450px;
+    width: 760px;
+    box-shadow: 1px 1px 20px 1px  gray;
+}
+.abt{
+    margin-left: 40px;
+    margin-right: 370px;
+    margin-top: -100px;
+    margin-bottom: 80px;
+    padding-block: 100px;
+    padding-top: 100px;
+    background-color:black;
+    text-align-last: center;
+    height: 1450px;
+    width: 300px;
+}
+.head{
+    margin-left: -40px;
+    margin-right: 370px;
+    margin-top: -10px;
+    margin-bottom: 80px;
+    padding-block: 40px;
+    padding-top: 100px;
+    background-color:darkblue;
+    text-align-last: center;
+    height: 0px;
+    width: 760px;
+}
+.dp{
+    border: 2px solid darkblue;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+    margin-left: 45px;
+    margin-right: 370px;
+    margin-top: -250px;
+    margin-bottom: 100px;
+}
+img{
+    border: 3px solid white;
+    border-radius: 50%;
+    margin-left: -50px;
+    margin-right: 70px;
+    margin-top: -50px;
+    border-image: fill;
+}
+#name{
+    font-size: 46px;
+    color:white;
+    margin-top: -100px;
+    margin-left: 290px;
+    font-family: "Tahoma",Geneva,sans-serif;
+}
+#tagline{
+    margin-top: -45px;
+    margin-left: 350px;
+    color: white;
+}
+#abt1{
+    margin-top:-80px ;
+    margin-left: -10px;
+    color:white;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+#data{
+    margin-top:-20px ;
+    margin-left: -10px;
+    color:white;
+    font-size: 15px;
+}
+#project{
+    border: 3px solid white;
+    border-radius: 30px;
+    padding:5px;
+    margin-right: 50px;
+    margin-left: 360px;
+    margin-top: -1445px;
+    width: 180px;
+    background-color: darkblue;
+    color:white;
+    font-family: sans-serif;
+}
+#pro-t1{
+    margin-right: 50px;
+    margin-left: 360px;
+    margin-top: -1199px;
+}
+#pro-t{
+    margin-right: 50px;
+    margin-left: -165px;
+    margin-top: 20px;
+}
+.list{
+    margin-right: 50px;
+    margin-left: 340px;
+    margin-top: -8px;
+}
+h2{
+    text-align: 100px;
+    color: skyblue;
+    margin-left: -220px;
+}
+h3{
+    color: black;
+    margin-left: -200px;
+}
+#education{
+    border: 3px solid white;
+    border-radius: 30px;
+    padding:5px;
+    margin-right: 50px;
+    margin-left: 360px;
+    margin-top: 45px;
+    width: 180px;
+    background-color: darkblue;
+    color:white;
+    font-family: sans-serif;
+}
+#edu{
+    color: black;
+    margin-left: 20px;
+}
+#edudata{
+    margin-left: 285px;
+}
+#eduyear{
+    margin-left: 60px;
+}
+#edu1{
+    color: black;
+    margin-left: 112px;
+}
+#edudata1{
+    margin-left: 190px;
+}
+#edu2{
+    color: black;
+    margin-left: 45px;
+}
+#edudata2{
+    margin-left: 300px;
+}
+#icon{
+    color:brown;
+    margin-top: -90px;
+    margin-left: -180px;
+    font-size: 18px;
+}
+#call{
+    border: 2px solid rgb(0, 100, 255) ;
+    border-radius: 50%;
+    margin-bottom: 60px;
+    margin-left: 40px;
+    margin-right: -40px;
+    height: 10px;
+    width: 15px;
+    padding: 9px;
+    margin-top: 40px;
+    background-color:  rgb(0, 100, 255);
+}
+#ph{
+    color: white;
+    margin-top: -35px;
+    margin-left: -1px;
+    font-size: large;
+}
+#Skills{
+    color: white;
+    border: 3px solid rgb(64, 64, 172);
+    border-radius: 30px;
+    padding:10px;
+    margin-right: 50px;
+    margin-left: 65px;
+    margin-top: -899px;
+    width: 220px;
+    font-family: sans-serif;
+}
+#lisdata{
+    color:red;
+    margin-right: 600px;
+    margin-left: -275px;
+    margin-top: 0px;
+    color:white;
+    font-family: sans-serif;
+}
+#exper{
+    color: white;
+    border: 3px solid rgb(64, 64, 172);
+    border-radius: 30px;
+    padding:10px;
+    margin-right: 50px;
+    margin-left: 65px;
+    margin-top: 15px;
+    width: 220px;
+    font-family: sans-serif;
+}
+#lisdata1{
+    margin-right: 600px;
+    margin-left: -275px;
+    margin-top: 0px;
+    color:white;
+    font-family: sans-serif;
+}
+#reference{
+    border: 3px solid white;
+    border-radius: 30px;
+    padding:5px;
+    margin-right: 50px;
+    margin-left: 360px;
+    margin-top: 45px;
+    width: 180px;
+    background-color: darkblue;
+    color:white;
+    font-family: sans-serif;
+}
+#ref{
+    color: black;
+    margin-left: 65px;
+}
+#refvalue{
+    margin-left: 143px;
+}
+#refno{
+    margin-left: 115px;
+}
+#refemail{
+    margin-left: 170px;
+}
+#ref1{
+    color: black;
+    margin-left: 90px;
+}
+#refvalue1{
+    margin-left: 108px;
+}
+#refno1{
+    margin-left: 95px;
+}
+#refemail1{
+    margin-left: 130px;
+}
+.ref2{
+    margin-left: 430px;
+    margin-top: -137px;
+}
