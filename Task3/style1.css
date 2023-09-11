@@ -101,6 +101,9 @@ img{
     margin-left: -165px;
     margin-top: 20px;
 }
+#para{
+    text-align: justify;
+}
 .list{
     margin-right: 50px;
     margin-left: 340px;
@@ -154,7 +157,7 @@ h3{
 #icon{
     color:brown;
     margin-top: -90px;
-    margin-left: -180px;
+    margin-left: -182px;
     font-size: 18px;
 }
 #call{
