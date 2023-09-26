@@ -1,0 +1,117 @@
+body{
+    background-image:linear-gradient(to right,rgb(138, 87, 233),white) ;
+}
+#bg1{
+    background-image: linear-gradient(to right,rgb(192, 161, 250),white);
+    padding: 70px;
+    padding-bottom: -40px;
+    padding-left: 40px;
+    margin-left: -10px;
+    margin-right: -7px;
+    margin-top: 450px;
+}
+#border{
+    border: 3px solid red;
+    border-radius: 13px;
+    padding:230px;
+    width: 100px;
+    height: px;
+    background-color:rgba(170, 164, 164, 0.97);
+    color:white;
+    font-family: sans-serif;
+    margin-top: -570px;
+    margin-left: 465px;
+}
+.half{
+    border: 0px solid red;
+    border-radius: 13px;
+    padding:130px;
+    width: 300px;
+    background-color:rgb(235, 237, 238);
+    font-family: sans-serif;
+    margin-top: -479px;
+    margin-left: 467px;
+}
+#image{
+    text-align: center;
+    margin-top: -265px;
+    margin-left: 22px;
+    font-family: sans-serif;
+    font-size: 24px;
+}
+.half1{
+    border: 0px solid red;
+    border-radius: 10px;
+    padding:90px;
+    width: 340px;
+    font-family: sans-serif;
+    margin-top: -2px;
+    margin-left: 467px;
+}
+#data{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 19px;
+    margin-top: -200px;
+}
+div .details{
+    text-align: center;
+    font-family: sans-serif;
+    font-size:15px;
+}
+#button{
+    margin-left: 285px;
+}
+#user{
+    background-color: white;
+    width: 240px;
+    font-size: 18px;
+    border: 2px;
+}
+#pass{
+    background-color: white;
+    width: 240px;
+    font-size: 18px;
+    border: 2px;
+}
+#but{
+    width: 100px;
+    margin-right: -40px;
+}
+.links{
+    text-align: center;
+}
+#l1{
+    text-align: center;
+    margin-top: 30px;
+}
+#l2{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: -580px;
+}
+#l3{
+    text-align: center;
+    margin-top: -34px;
+    margin-left: 0px;
+}
+#l4{
+    text-align: center;
+    margin-top: -34px;
+    margin-left: 550px;
+}
+#l5{
+    text-align: center;
+    margin-top: 55px;
+    margin-left: -250px;
+}
+#l6{
+    text-align: center;
+    margin-top: -34px;
+    margin-left: 300px;
+}
+#l7{
+    text-align: center;
+    margin-top: 24px;
+    margin-left: 100px;
+}
