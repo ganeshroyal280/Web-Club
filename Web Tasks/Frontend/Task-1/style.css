@@ -1,0 +1,27 @@
+table{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+
+}
+thead{
+    background-color: aqua;
+    font-size: 20px;
+}
+td{
+    background-color: rgb(215, 179, 247);
+    font-size: 17px;
+}
+#size{
+    background-color: rgb(171, 224, 232);
+    height: 70px;
+}
+#size1{
+    height: 270px;
+}
+#lunch{
+    background-color: rgb(233, 212, 212);
+}
+td:nth-child(1){
+    background-color: rgb(221, 221, 58);
+}

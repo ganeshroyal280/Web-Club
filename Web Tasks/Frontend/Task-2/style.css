@@ -1,0 +1,197 @@
+img{
+    height: 140px;;
+}
+#salutation{
+    margin-right: 0px;
+    border: 1px solid grey;
+    margin-top: 0px;
+    width: 300px;
+    margin-left: 0px;
+    height:40px;
+    margin-bottom: 15px;
+    box-shadow: 0 1px 10px 0px  rgb(217, 217, 217),0 1px 30px 0 rgb(217, 217, 217, 217);
+}
+#fname{
+    margin-right: 195px;
+    border: 1px solid grey;
+    margin-top: 0px;
+    width: 300px;
+    margin-left: 0px;
+    height:40px;
+    margin-bottom: 15px;
+    box-shadow: 0 1px 10px 0px  rgb(217, 217, 217),0 1px 30px 0 rgb(217, 217, 217, 217);
+}
+#lname{
+    margin-right: -95px;
+    border: 1px solid grey;
+    margin-top: 0px;
+    width: 300px;
+    margin-left: -155px;
+    height:40px;
+    margin-bottom: 15px;
+    box-shadow: 0 1px 10px 0px  rgb(217, 217, 217),0 1px 30px 0 rgb(217, 217, 217, 217);
+}
+#dobh{
+    margin-left: 700px;
+    margin-top: -92px;
+}
+#dob{
+    margin-right: 0px;
+    border: 1px solid grey;
+    margin-top: 0px;
+    width: 300px;
+    margin-left: 0px;
+    height:40px;
+    margin-bottom: 15px;
+    box-shadow: 0 1px 10px 0px  rgb(217, 217, 217),0 1px 30px 0 rgb(217, 217, 217, 217);
+}
+#dob1{
+    margin-left: 700px;
+}
+#age1{
+    margin-top: 40px;
+}
+#age{
+    margin-right: 0px;
+    border: 1px solid grey;
+    margin-top: 0px;
+    width: 300px;
+    margin-left: 0px;
+    height:40px;
+    margin-bottom: 15px;
+    box-shadow: 0 1px 10px 0px  rgb(217, 217, 217),0 1px 30px 0 rgb(217, 217, 217, 217);
+}
+#pno1{
+    margin-left: 700px;
+    margin-top: -110px;
+}
+#pno{
+    margin-left:10px;
+    margin-right: 0px;
+    border: 1px solid grey;
+    margin-top: 0px;
+    width: 300px;
+    height:40px;
+    margin-bottom: 15px;
+    box-shadow: 0 1px 10px 0px  rgb(217, 217, 217),0 1px 30px 0 rgb(217, 217, 217, 217);
+}
+#pfname{
+    margin-right: 0px;
+    border: 1px solid grey;
+    margin-top: 0px;
+    width: 300px;
+    margin-left: 0px;
+    height:40px;
+    margin-bottom: 15px;
+    box-shadow: 0 1px 10px 0px  rgb(217, 217, 217),0 1px 30px 0 rgb(217, 217, 217, 217);
+}
+#plname{
+    margin-left:40px;
+    margin-right: 0px;
+    border: 1px solid grey;
+    margin-top: 0px;
+    width: 300px;
+    height:40px;
+    margin-bottom: 15px;
+    box-shadow: 0 1px 10px 0px  rgb(217, 217, 217),0 1px 30px 0 rgb(217, 217, 217, 217);
+}
+#relat1{
+    margin-left: 700px;
+    margin-top: -112px;
+}
+#relat{
+    margin-left:10px;
+    margin-right: 0px;
+    border: 1px solid grey;
+    margin-top: 0px;
+    width: 300px;
+    height:40px;
+    margin-bottom: 15px;
+    box-shadow: 0 1px 10px 0px  rgb(217, 217, 217),0 1px 30px 0 rgb(217, 217, 217, 217);
+}
+#admit{
+    margin-right: 0px;
+    border: 1px solid grey;
+    margin-top: 0px;
+    width: 300px;
+    margin-left: 0px;
+    height:40px;
+    margin-bottom: 15px;
+    box-shadow: 0 1px 10px 0px  rgb(217, 217, 217),0 1px 30px 0 rgb(217, 217, 217, 217);
+}
+#addr{
+    margin-left:0px;
+    margin-right: 0px;
+    border: 1px solid grey;
+    margin-bottom: -100px;
+    width: 300px;
+    height:40px;
+    margin-bottom: 15px;
+    box-shadow: 0 1px 10px 0px  rgb(217, 217, 217),0 1px 30px 0 rgb(217, 217, 217, 217);
+}
+#addr1{
+    margin-top: -105px;
+}
+#addr2,#addr3{
+    margin-left:40px;
+    margin-right: 0px;
+    border: 1px solid grey;
+    margin-top: 0px;
+    width: 300px;
+    height:40px;
+    margin-bottom: 15px;
+    box-shadow: 0 1px 10px 0px  rgb(217, 217, 217),0 1px 30px 0 rgb(217, 217, 217, 217);
+}
+#gen{
+    margin-left:700px;
+    margin-right: 0px;
+    margin-top: -40px;
+    width: 300px;
+    height:40px;
+    margin-bottom: 15px;
+}
+#mar{
+    margin-left:700px;
+    margin-right: 0px;
+    margin-top: -30px;
+    width: 700px;
+    height:40px;
+    margin-bottom: 15px;
+}
+#admin1{
+    margin-left: 700px;
+    margin-top: -110;
+}
+#admin{
+    margin-left:700px;
+    margin-right: 0px;
+    margin-top: 00px;
+    width: 300px;
+    height:40px;
+    margin-bottom: 15px;
+}
+#mod{
+    margin-left: 700px;
+    margin-top: -110px;
+}
+#mod1{
+    margin-left:700px;
+    margin-right: 0px;
+    margin-top: 00px;
+    width: 300px;
+    height:40px;
+    margin-bottom: 15px;
+}
+#mail{
+    margin-left:0px;
+    margin-right: 0px;
+    border: 1px solid grey;
+    margin-bottom: -100px;
+    width: 300px;
+    height:40px;
+    margin-bottom: 15px;
+    box-shadow: 0 1px 10px 0px  rgb(217, 217, 217),0 1px 30px 0 rgb(217, 217, 217, 217);
+}
+#table1{
+    margin-left: 500px;
+}
